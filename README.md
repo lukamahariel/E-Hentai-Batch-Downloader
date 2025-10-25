@@ -30,8 +30,7 @@ Tampermonkey
 
 ## Download and install the script:
 
-Download the script
-Open your userscript manager and add the downloaded .js file.
+[Download the script](https://sleazyfork.org/en/scripts/553635-e-hentai-batch-downloader)
 
 
 Use with the latest versions of modern browsers like Chrome, Firefox.
